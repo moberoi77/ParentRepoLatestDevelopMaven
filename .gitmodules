@@ -1,0 +1,12 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/moberoi77/core.git
+	branch = develop
+[submodule "app"]
+	path = app
+	url = https://github.com/moberoi77/app.git
+	branch = develop
+[submodule "sharedlib"]
+	path = sharedlib
+	url = https://github.com/moberoi77/sharedlib.git
+	branch = develop
